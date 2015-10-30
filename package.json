@@ -1,0 +1,14 @@
+{
+  "name": "makingawesome.github.io",
+  "version": "1.0.0",
+  "description": "Making Awesome wiki",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Muller <me@r24y.com>",
+  "license": "ISC"
+}

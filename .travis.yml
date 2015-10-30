@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- '0.12'
+branches:
+  only:
+  - source
+script: sh build.sh
+env:
+  global:
+    secure: bhFMAnUHWseWtL2cVLKeuX60F3egkDwp4Y0hkW8PFN+HKIjNfPEHKtmSQ+qhuejuIaG307z3S/GpWnyla69QprWq2C2Fxy3cAIIdA0Yd0D6ksz9RGDqKhSVfXSknUKSMKRCUsadtUYisfmGGZkLhwRUB5PZ+SptttUQF60zg0VE=
