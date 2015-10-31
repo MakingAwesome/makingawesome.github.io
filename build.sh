@@ -1,6 +1,6 @@
 #!/bin/sh
 SOURCE_BRANCH='source'
-GH_REF='github.com/MakingAwesome/makingawesome.github.io'
+GH_REF='github.com/makingawesome/makingawesome.github.io'
 
 git config --get user.name
 if [ $? -ne 0 ]; then
