@@ -24,6 +24,7 @@ git config user.email "nobody@makingawesome.org"
 # files present with the commit message "Deploy to GitHub Pages".
 git add .
 git commit -m "Deploy to GitHub Pages"
+echo Deploying to https://GH_TOKEN@${GH_REF}
 git remote add origin "https://${GH_TOKEN}@${GH_REF}"
 
 # Force push from the current repo's master branch to the remote
