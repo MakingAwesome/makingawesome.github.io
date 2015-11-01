@@ -16,7 +16,7 @@
   * Electronics
     * Soldering station
   * Digital fabrication
-    * Lulzbot
+    * [LulzBot Mini](equipment/digifab/lulzbot.md)
     * Makerbot
   * Other tools
     * Sewing machine
