@@ -12,11 +12,24 @@
     * Grinding wheels
     * Delta lathe
     * Conover lathe
+    * Jointer
+    * Hand tools
   * Metal shop
+    * Mini mill
+    * Star mill (Bridgeport clone)
+    * Measurement tools
+    * Hand tools
   * Electronics
-    * Soldering station
+    * Soldering stations
+    * Desoldering stations
+    * Test and measurement tools
+    * Power supplies
   * Digital fabrication
     * [LulzBot Mini](equipment/digifab/lulzbot.md)
     * Makerbot
   * Other tools
-    * Sewing machine
+    * Industrial Singer sewing machine
+    * Household sewing machines
+  * Social area
+    * Video games
+    * Library
