@@ -30,6 +30,8 @@
   * Other tools
     * Industrial Singer sewing machine
     * Household sewing machines
-  * Social area
-    * Video games
-    * Library
+* Classroom
+* Social area
+  * Kitchen
+  * Video games
+  * Library
